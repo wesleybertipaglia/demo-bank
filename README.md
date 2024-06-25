@@ -1,5 +1,5 @@
 # Bank Implementation in Java
-This is a class diagram for the Bank Implementation application. The application is a simple implementation that allows users to perform basic banking operations. 
+This is a OOP Implementation of a Bank application. The application is a simple implementation that allows users to perform basic banking operations. 
 
 ## The application has the following classes:
 
